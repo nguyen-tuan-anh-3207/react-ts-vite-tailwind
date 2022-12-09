@@ -1,0 +1,8 @@
+node_modules/
+
+# Ignore artifacts:
+coverage/
+dist/
+public/
+
+*.d.ts
